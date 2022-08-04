@@ -1,0 +1,30 @@
+---
+title: What is an EPSRC CDT?
+layout: page
+---
+
+The [Engineering and Physical Sciences Research Council (EPSRC)](epsrc.ukri.org) is one of the 9 councils that comprise [UK Research and Innovation (UKRI)](ukri.org), which is a non-departmental public body responsible for supporting research and knowledge exchange at higher education institutes (HEIs) in England.
+
+EPSRC creates knowledge in engineering and physical sciences for UK capability to benefit society and the economy.  __What is an EPSRC Centre for Doctoral Training and how does it work?__
+
+__A CDT is:-__
+
+-	A programme of doctoral student training (such as PhD, EngD), to support innovation, skills development, and responsible leadership, in research and industry.
+-	Focused on a specific topic or theme within engineering and physical sciences
+-	Normally led by one HEI but can also be by partnering several others with complementary strengths/expertise. A grant is awarded to support the Centre, typically for 9 years.
+-	Each year, the Centre is expected to recruit a minimum of 10 students for 4 years (termed a 4-year studentship), to provide a cohort-based approach to training.
+-	A 9-year award therefore equates to 5 years of student cohorts and at least 50 students across the grant lifetime. The last cohort joins the Centre in the 5th year and completes their training in the 9th year.
+-	The grant funding will normally provide financial support for a maximum of 40 students. It is expected that the remaining 10 students (but it could be as many as 20 students) must be supported by non-EPSRC funds (i.e., from the HEI or from industry partners).
+-	Studentship costs include fees, stipends and research training support for student individual projects.
+-	The last EPSRC CDT competition was held in 2018 – EPSRC have provided an infographic on the Centres funded.
+
+__Key points to note:-__
+
+-	CDTs are focused on training, not research, and therefore require evidence (normally through engagement with industry partners) of a national need for PhD candidates to be trained in that specific topic or theme. In particular, the diverse skillset that each student will gain needs to be one that industry agrees they need and will support. 
+-	Letters of Support (LOSs) from industry partners illustrate and confirm how important the proposed new CDT will be.  A company can pledge support in various ways:
+	* cash to fund studentships; 
+	* an in-kind commitment such as offering internships;
+	* by enabling students to use company facilities and staff time to support a student’s research and training.
+-	A cohort-based approach to training provides a more collegiate environment, with an informal support structure and opportunities for collaboration/networking.
+
+-	Students will have the chance to develop connections within the academic and work environments that will shape their future careers

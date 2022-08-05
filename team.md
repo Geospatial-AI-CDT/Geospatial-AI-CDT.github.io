@@ -3,3 +3,15 @@ title: Meet the development team
 layout: page
 ---
 
+The development of this proposal is being led by a team of experienced academics from across the University. Together we bring the broad technical and managerial skillset required to develop the CDT proposal. We're supported by a wider team of academics from our own schools and beyond. 
+
+Many of us in the leadership team and wider support team have experience of working on geospatial artificial intelligence projects together, as can be seen in the [projects showcase](/project).
+
+The leadership team for the development of the proposal consists of:-
+
+ - [Professor Jonathon Hare](https://www.southampton.ac.uk/people/5x2nft/professor-jonathon-hare). Professor of Machine Learning, School of Electronics and Computer Science.
+ - [Professor Marika Taylor](https://www.southampton.ac.uk/people/5x927j/professor-marika-taylor). Head of the School of Mathematical Sciences & Professor of Theoretical Physics, School of Mathematical Sciences.
+ - [Professor Blair Thornton](https://www.southampton.ac.uk/people/5xh2l8/professor-blair-thornton). Professor of Marine Autonomy, School of Engineering.
+ - [Professor Jadu Dash](https://www.southampton.ac.uk/people/5wzysq/professor-jadu-dash). Professor of Remote Sensing, School of Geography and Environmental Science.
+ - [Professor Jo Slater-Jeffries](https://www.southampton.ac.uk/people/5x2lb6/professor-jo-slater-jefferies). Associate Dean of Enterprise for the Faculty of Environmental and Life Sciences and Operations Director of the National Biofilms Innovation Centre.
+ 

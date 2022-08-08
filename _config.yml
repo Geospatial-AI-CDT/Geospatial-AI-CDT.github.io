@@ -28,10 +28,10 @@ email: geo-ai@soton.ac.uk
 questionnaire: https://tinyurl.com/geo-AI
 
 # Google Analytics
-google-analytics: 
+google-analytics: ""
 
 # Disqus
-disqus-shortname: 
+disqus-shortname: ""
 
 contact_blurb: The development of this proposal is being lead by a diverse team of experienced academics from across the University. Click <a href="team">here</a> to find out more about us, or use the buttons below to drop us a message or fill out our industry-engagement questionnaire.
 # Name of the Author

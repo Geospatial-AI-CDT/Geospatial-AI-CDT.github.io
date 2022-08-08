@@ -64,6 +64,7 @@ layout: compress
   </section>
   {% include footer.html %}
 </body>
+{% unless site.disqus-shortname == "" %}
 <script>
   /**
    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -82,5 +83,5 @@ layout: compress
     (d.head || d.body).appendChild(s);
   })();
 </script>
-
+{% endunless %}
 </html>

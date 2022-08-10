@@ -33,13 +33,13 @@ google-analytics: ""
 # Disqus
 disqus-shortname: ""
 
-contact_blurb: The development of this proposal is being lead by a diverse team of experienced academics from across the University. Click <a href="team">here</a> to find out more about us, or use the buttons below to drop us a message or fill out our industry-engagement questionnaire.
+contact_blurb: The development of this proposal is being lead by a diverse team of experienced academics from across the University. Click <a href="/about/team">here</a> to find out more about us, or use the buttons below to drop us a message or fill out our industry-engagement questionnaire.
 # Name of the Author
 author-name: About
 # URL for the Image of the Author
 author-image: /assets/images/uos.png
 # 60 Words About the Author
-author-about: Geospatial data considers location-based information on objects, environments, events, and their trends. Applications span energy, agriculture, healthcare, transport, etc. Data-types are multiple, capturing diverse aspects at different resolutions and times, presenting huge interpretation challenges. <p>&nbsp;</p><a href="http://epsrc.ukri.org>">EPSRC</a> are expected to announce a call for new <a href="/about/what_is">Centres for Doctoral Training (CDTs)</a> in the near future. At the <a href="http://www.southampton.ac.uk">University of Southampton</a> we are proposing a CDT which considers how AI can improve geospatial data and analysis in-line with non-academic partner needs, and how geospatial data can help answer fundamental AI questions. Cohorts will investigate the pipeline supporting intelligent policy and decisions, from data acquisition to generating actionable information by exploiting AI. Projects and training co-developed with partners will nurture the innovation, entrepreneurship, principles, and diverse perspectives needed to confront societal challenges of sustainability and inequality.
+author-about: Geospatial data considers location-based information on objects, environments, events, and their trends. Applications span energy, agriculture, healthcare, transport, etc. Data-types are multiple, capturing diverse aspects at different resolutions and times, presenting huge interpretation challenges. <p>&nbsp;</p><a href="http://epsrc.ukri.org>">EPSRC</a> are expected to announce a call for new <a href="/about/what-is">Centres for Doctoral Training (CDTs)</a> in the near future. At the <a href="http://www.southampton.ac.uk">University of Southampton</a> we are proposing a CDT which considers how AI can improve geospatial data and analysis in-line with non-academic partner needs, and how geospatial data can help answer fundamental AI questions. Cohorts will investigate the pipeline supporting intelligent policy and decisions, from data acquisition to generating actionable information by exploiting AI. Projects and training co-developed with partners will nurture the innovation, entrepreneurship, principles, and diverse perspectives needed to confront societal challenges of sustainability and inequality.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: team
 

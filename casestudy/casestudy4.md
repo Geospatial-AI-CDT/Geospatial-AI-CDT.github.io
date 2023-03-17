@@ -1,9 +1,9 @@
 ---
-title: The Entrepreneur
+title: The Mathematician
 layout: page
 ---
 
-_The following questions are aimed to capture a snapshot of an individual students within one the CDT cohort. During proposal development hypothetical students (with real Southampton supervisors, and hypothetical industrial ones) will be used to help shape the training programme and give light to how the CDT would be experienced from the perspective of the student. If we get funded, the same questions can be reused to help us tell the stories of our actual students._
+_The following questions are aimed to capture a snapshot of an individual student within one the CDT cohorts. During proposal development, hypothetical students (with real Southampton supervisors, and hypothetical industrial ones) are used to help shape the training programme and give light to how the CDT would be experienced from the perspective of the student. If successfully funded, the same questions will be reused to help us tell the stories of our actual students._
 
 # Describe the student’s previous academic and/or professional background
 XXX obtained an MMath degree from the UK. She studied a variety of topics in applied mathematics during her Masters year spanning numerical analysis, machine learning, modelling networks and information theory. For her Masters project she worked on modelling population compliance with Covid restrictions, using transportation data collected during Covid lockdowns to calibrate and test models. 

@@ -3,7 +3,7 @@ title: The Engineer
 layout: page
 ---
 
-_The following questions are aimed to capture a snapshot of an individual students within one the CDT cohort. During proposal development hypothetical students (with real Southampton supervisors, and hypothetical industrial ones) will be used to help shape the training programme and give light to how the CDT would be experienced from the perspective of the student. If we get funded, the same questions can be reused to help us tell the stories of our actual students._
+_The following questions are aimed to capture a snapshot of an individual student within one the CDT cohorts. During proposal development, hypothetical students (with real Southampton supervisors, and hypothetical industrial ones) are used to help shape the training programme and give light to how the CDT would be experienced from the perspective of the student. If successfully funded, the same questions will be reused to help us tell the stories of our actual students._
 
 # Describe the student’s previous academic and/or professional background
 Graduated with a UG masters in engineering with an autonomous systems pathway

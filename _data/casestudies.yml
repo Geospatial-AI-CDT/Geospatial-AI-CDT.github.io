@@ -1,0 +1,16 @@
+- name: The<br/>Archaeologist
+  image: /assets/images/person.png
+  link: /casestudy/casestudy1
+
+- name: The<br/>Engineer
+  link: /casestudy/casestudy2
+  image: /assets/images/person.png
+
+- name: The<br/>Geographer
+  link: /casestudy/casestudy3
+  image: /assets/images/person.png
+
+- name: The<br/>Mathematician
+  link: /casestudy/casestudy4
+  image: /assets/images/person.png
+  

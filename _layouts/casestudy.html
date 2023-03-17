@@ -1,0 +1,32 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    {% include head.html %}
+</head>
+
+<body>
+    {% include navbar.html %}
+
+    <!--Main Section-->
+    <section class="hero is-fullheight" id="project">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Our approach to designing a training programme for the CDT is based around student stories, focussing on how we imagine the CDT has allowed them to reach their goals. These case studies are not entirely hypothetical; they are based around knowledge of previous students, and serve as a useful way to identify where existing gaps are and how a cohort-based training approach will address these.</p>
+                </div>
+                {% include casestudy-card.html %}
+            </div>
+        </div>
+    </section>
+    </div>
+
+    <!--Footer-->
+    {% include footer.html %}
+</body>
+
+</html>

@@ -40,5 +40,5 @@ XXX spent some time working with Ordnance Survey at their offices. The work look
 XXX has launched a start-up based on their research and also secured a RAEng Enterprise Fellowship.
 
 # How have Southampton’s unique facilities and broad range of Geospatial and AI expertise benefitted the student?
-Geographical closeness to the sponsor was a big part, but the broad range of expertise across the different faculties and schools of the University ensured that there was always someone to speak to about any problem. In terms of facilities, the computing infrastructure provided by the CDT through the host School and wider University was critical to facilitating the research. 
+Geographical closeness to the sponsor was a big part, but the broad range of expertise across the different faculties and schools of the University ensured that there was always someone to speak to about any problem. In terms of facilities, the computing infrastructure for working with large, high dimentional, geospatial image datasets provided by the CDT through the host School and wider University was critical to facilitating the research. 
 
